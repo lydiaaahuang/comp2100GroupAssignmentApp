@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="Home"
+        android:icon="@drawable/ic_baseline_home_icon"
+        android:id="@+id/home_page"/>
+    <item
+        android:title="Saved"
+        android:icon="@drawable/ic_baseline_saved_icon"
+        android:id="@+id/saved_page"/>
+    <item
+        android:title="Chat"
+        android:icon="@drawable/ic_baseline_chat_icon"
+        android:id="@+id/chat_page" />
+    <item
+        android:title="Profile"
+        android:icon="@drawable/ic_baseline_profile_icon"
+        android:id="@+id/profile_page"/>
+</menu>

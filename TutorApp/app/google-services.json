@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "912656081046",
+    "project_id": "voluntutor-fe1aa",
+    "storage_bucket": "voluntutor-fe1aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912656081046:android:a01206cec22389d26c22b7",
+        "android_client_info": {
+          "package_name": "com.example.tutorapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "912656081046-l79sktmr8il9velg8rqijep7gcfu6n9e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYauMN-xz_6KBr709TulzwJuA9qBXhHEk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "912656081046-l79sktmr8il9velg8rqijep7gcfu6n9e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

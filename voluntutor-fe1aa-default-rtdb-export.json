@@ -1,0 +1,348 @@
+{
+  "messages": {
+    "Emmanull": {
+      "-N2RXoQnWdWhtQwS75xe": {
+        "message": "",
+        "receiver": "lydia.huang@anu.org",
+        "sender": "emily@gmail.com"
+      },
+      "-N2RXp5VOxgGuXxpYemG": {
+        "message": "",
+        "receiver": "lydia.huang@anu.org",
+        "sender": "emily@gmail.com"
+      },
+      "-N2UhGcmqjC9OzPrK6YC": {
+        "message": "helllo",
+        "receiver": "rohan.lee@anu.org",
+        "sender": "emily@gmail.com"
+      },
+      "-N2UhI8cErCbaEJaySbw": {
+        "message": "hiiii\n",
+        "receiver": "rohan.lee@anu.org",
+        "sender": "emily@gmail.com"
+      },
+      "-N2UhK1xF9BMDFRVs8UF": {
+        "message": "helllloooooooooooooooo\n",
+        "receiver": "rohan.lee@anu.org",
+        "sender": "emily@gmail.com"
+      },
+      "-N2UhMR5nPx3vG5qEA1Q": {
+        "message": "back",
+        "receiver": "rohan.lee@anu.org",
+        "sender": "emily@gmail.com"
+      }
+    },
+    "Harrisonlydia": {
+      "-N2RDoM3Cs_3GoNn1l6P": {
+        "message": "stop",
+        "receiver": "lydia@gmail.com",
+        "sender": "harry.rieck@gmail.org"
+      },
+      "-N2Vn0csoj5Yjq-fMbBL": {
+        "message": "hi",
+        "receiver": "harry.rieck@gmail.org",
+        "sender": "lydia@gmail.com"
+      },
+      "-N2Vn2H5u66qptIVJsKB": {
+        "message": "hello",
+        "receiver": "harry.rieck@gmail.org",
+        "sender": "lydia@gmail.com"
+      },
+      "-N2Vn3Gb4qjMJPMtQDzf": {
+        "message": "",
+        "receiver": "harry.rieck@gmail.org",
+        "sender": "lydia@gmail.com"
+      },
+      "-N2Vn4c7hLMs579GmG-a": {
+        "message": "hiiiiiiiiiiii",
+        "receiver": "harry.rieck@gmail.org",
+        "sender": "lydia@gmail.com"
+      },
+      "-N2Vn5jg2Rb275IgmVbW": {
+        "message": "hiiiii\nhiiiii\nhiiiii",
+        "receiver": "harry.rieck@gmail.org",
+        "sender": "lydia@gmail.com"
+      },
+      "-N2Vn7V0pgj1oa6doi9l": {
+        "message": "hellllllooooooooooooooooooooooo",
+        "receiver": "harry.rieck@gmail.org",
+        "sender": "lydia@gmail.com"
+      },
+      "-N2Vn9XPyYZxcrPmY7ln": {
+        "message": "stop",
+        "receiver": "lydia@gmail.com",
+        "sender": "harry.rieck@gmail.org"
+      },
+      "-N2Vq1ZgS9yU14fT75s2": {
+        "message": "hi",
+        "receiver": "harry.rieck@gmail.org",
+        "sender": "lydia@gmail.com"
+      }
+    },
+    "Rohanlydia": {
+      "-N2QFIHInBoz8nUzJ4v0": {
+        "message": "jjhhh",
+        "receiver": "rohan@gmail.com",
+        "sender": "lydia@gmail.com"
+      },
+      "-N2QFJwX-4ECe851xLlu": {
+        "message": "w222222",
+        "receiver": "rohan@gmail.com",
+        "sender": "lydia@gmail.com"
+      },
+      "-N2QFLPKIAuehyXKuRoZ": {
+        "message": "wwwww",
+        "receiver": "rohan@gmail.com",
+        "sender": "lydia@gmail.com"
+      },
+      "-N2QFdvLlHTgXciQ-ZwI": {
+        "message": "hfhfhw",
+        "receiver": "rohan@gmail.com",
+        "sender": "lydia@gmail.com"
+      }
+    },
+    "SungJaeJaelydia": {
+      "-N2QtjCZVWcK8ztl7UzX": {
+        "message": "kdhwkahkwhwf",
+        "receiver": "sjlee@sj.org",
+        "sender": "lydia@gmail.com"
+      },
+      "-N2QtlMGmAcDgwXGAh4A": {
+        "message": "fehfhef",
+        "receiver": "sjlee@sj.org",
+        "sender": "lydia@gmail.com"
+      },
+      "-N2QtmEGm9aq-xywGd76": {
+        "message": "fkuhfakuw",
+        "receiver": "sjlee@sj.org",
+        "sender": "lydia@gmail.com"
+      },
+      "-N2QtzEuhyjrJFQfraaH": {
+        "message": "hihiwh\nwuhakdhufh\nwauhkwaugf",
+        "receiver": "sjlee@sj.org",
+        "sender": "lydia@gmail.com"
+      },
+      "-N2QylEcSutCI31AS1vK": {
+        "message": "",
+        "receiver": "sjlee@sj.org",
+        "sender": "lydia@gmail.com"
+      },
+      "-N2QylmOqROgfY3JH2WQ": {
+        "message": "dawdwad",
+        "receiver": "sjlee@sj.org",
+        "sender": "lydia@gmail.com"
+      }
+    }
+  },
+  "students": {
+    "5TJBwzlplZX5ylsalG6bkyirl5f2": {
+      "courses": [
+        "MATH1013",
+        " COMP1100",
+        " STAT1003"
+      ],
+      "email": "mabel.gorman@anu.org",
+      "firstName": "Mabel ",
+      "id": "5TJBwzlplZX5ylsalG6bkyirl5f2",
+      "imageURL": "default",
+      "lastName": "Gorman",
+      "password": "1234567",
+      "status": "offline"
+    },
+    "9IALybKOU5MfXDwxJAu4UThlbve2": {
+      "courses": [
+        "STAT3040",
+        "STAT3013"
+      ],
+      "email": "sungjaelee183@anu.org",
+      "firstName": "SungJae",
+      "id": "9IALybKOU5MfXDwxJAu4UThlbve2",
+      "imageURL": "default",
+      "lastName": "Lee",
+      "password": "1234567",
+      "status": "offline"
+    },
+    "9k2RmMzUqyNvwHEyEn3DaqlH5Mq1": {
+      "courses": [
+        "LAWS1201",
+        "  MATH1115",
+        " LING1001"
+      ],
+      "email": "joseph.leee@anu.org",
+      "firstName": "Johnny",
+      "id": "9k2RmMzUqyNvwHEyEn3DaqlH5Mq1",
+      "imageURL": "default",
+      "lastName": "Lee",
+      "password": "1234567",
+      "status": "offline"
+    },
+    "HRZPUpxfl6ND0KZ0KY6xBFtUgSR2": {
+      "courses": [
+        "COMP2100",
+        " MATH1116",
+        "COMP1730"
+      ],
+      "email": "lydia@gmail.com",
+      "firstName": "lydia",
+      "id": "HRZPUpxfl6ND0KZ0KY6xBFtUgSR2",
+      "imageURL": "default",
+      "lastName": "huang",
+      "password": "Lydia123",
+      "status": "offline"
+    },
+    "HstSwGkyNIWKEx6Ib4qOZaSAS913": {
+      "courses": [
+        "STAT2018",
+        "STAT1003"
+      ],
+      "email": "sungjae2@sungjae.org",
+      "firstName": "Sungjae2",
+      "id": "HstSwGkyNIWKEx6Ib4qOZaSAS913",
+      "imageURL": "default",
+      "lastName": "Lee2",
+      "password": "12345678",
+      "status": "offline",
+      "userType": "student"
+    },
+    "RuBIojGPWJfNfgR0LuQAACQ3oty1": {
+      "courses": [
+        "COMP2100"
+      ],
+      "email": "emily@gmail.com",
+      "firstName": "Emily",
+      "id": "RuBIojGPWJfNfgR0LuQAACQ3oty1",
+      "imageURL": "default",
+      "lastName": "Nguyen",
+      "password": "1234567"
+    },
+    "njliUJKGUfZtxSFvo0oDIhbo0i22": {
+      "courses": [
+        "ENGN1001",
+        " STAT1003"
+      ],
+      "email": "matthew.fisher@fish.com",
+      "firstName": "Matthew",
+      "id": "njliUJKGUfZtxSFvo0oDIhbo0i22",
+      "imageURL": "default",
+      "lastName": "Fisher",
+      "password": "1234567",
+      "saved": [
+        "test!"
+      ],
+      "status": "offline",
+      "userType": "student"
+    }
+  },
+  "tutors": {
+    "DnncBNcXkhMZSZiXtDmvX8h0FB53": {
+      "courses": [
+        "COMP1110",
+        " MATH1013",
+        " COMP2100"
+      ],
+      "email": "rohan@gmail.com",
+      "firstName": "Rohan",
+      "id": "DnncBNcXkhMZSZiXtDmvX8h0FB53",
+      "imageURL": "default",
+      "lastName": "Khatwani",
+      "password": "rohan123",
+      "price": "99",
+      "status": "offline"
+    },
+    "MUFbe8i03ddY5FugQkWfZHA0g7G2": {
+      "courses": [
+        "MATH1005",
+        " STAT1008"
+      ],
+      "email": "sjlee@sj.org",
+      "firstName": "SungJaeJae",
+      "id": "MUFbe8i03ddY5FugQkWfZHA0g7G2",
+      "imageURL": "default",
+      "lastName": "LeeLee",
+      "password": "12345678",
+      "price": "500",
+      "status": "offline",
+      "userType": "tutor"
+    },
+    "RY9NPU2yziTNRKVsgeWMAw6Ex5s2": {
+      "courses": [
+        "FINM2002",
+        "CHIN3023",
+        "KORE3012",
+        "MATH113"
+      ],
+      "email": "joowon.bernard@gmail.com",
+      "firstName": "Joo-Won",
+      "id": "RY9NPU2yziTNRKVsgeWMAw6Ex5s2",
+      "imageURL": "default",
+      "lastName": "Bernard",
+      "password": "1234567",
+      "price": "55",
+      "status": "offline"
+    },
+    "RgCSgjpDFRNf4HGYVOMV4rhrSeP2": {
+      "courses": [
+        "CHEM1101",
+        "CHEM1102",
+        "ECON1101",
+        "ECON1102",
+        "ECON2125"
+      ],
+      "email": "sadaf.carbone@gmail.com",
+      "firstName": "Sadaf ",
+      "id": "RgCSgjpDFRNf4HGYVOMV4rhrSeP2",
+      "imageURL": "default",
+      "lastName": "Carbone",
+      "password": "1234567",
+      "price": "75",
+      "status": "offline"
+    },
+    "VJlqRTUY6ydYpuG2GJIOjydwiRk2": {
+      "courses": [
+        "STAT1008",
+        " STAT1003",
+        " MATH1113"
+      ],
+      "email": "minjae.cho@gmail.org",
+      "firstName": "Minjae",
+      "id": "VJlqRTUY6ydYpuG2GJIOjydwiRk2",
+      "imageURL": "default",
+      "lastName": "Cho",
+      "password": "1234567",
+      "price": "200",
+      "status": "offline",
+      "userType": "false"
+    },
+    "emSd6wwH46QJc0u56OMtZihy4R82": {
+      "courses": [
+        "COMP1600",
+        " MATH1005",
+        " COMP1110",
+        " COMP1730"
+      ],
+      "email": "lydia.huang@anu.org",
+      "firstName": "Lydia",
+      "id": "emSd6wwH46QJc0u56OMtZihy4R82",
+      "imageURL": "default",
+      "lastName": "Huang",
+      "password": "1234567",
+      "price": "40",
+      "status": "offline"
+    },
+    "vqKbUbOdB0PlbLvESnEipsaoid63": {
+      "courses": [
+        "FINM1001",
+        " STAT2001"
+      ],
+      "email": "harry.rieck@gmail.org",
+      "firstName": "Harrison",
+      "id": "vqKbUbOdB0PlbLvESnEipsaoid63",
+      "imageURL": "default",
+      "lastName": "Rieck",
+      "password": "12345678",
+      "price": "800",
+      "status": "offline",
+      "userType": "tutor"
+    }
+  }
+}

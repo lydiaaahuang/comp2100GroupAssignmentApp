@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.Toolbar xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@color/purple_1"
+    android:id="@+id/toolbar"
+    tools:context=".MainHomeActivity"
+    app:popupTheme="@style/TextAppearance.AppCompat.Menu">
+
+
+</androidx.appcompat.widget.Toolbar>

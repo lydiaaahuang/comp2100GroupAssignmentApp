@@ -1,0 +1,8 @@
+String name,String email,password,String uid,boolean isTutor,ArrayList<String> studying,(int)
+1,2,3,4,5,6,7
+Bernardo,U6677358@anu.edu.au,aaaae,U6677358,true,[COMP1110;MATH1005],45
+Emily,U6677356@anu.edu.au,aaaac,U6677356,true,[COMP1730;BIO1002],30
+Lydia,U6677357@anu.edu.au,aaaad,U6677357,false,[COMP1100]
+Rohan,U6677354@anu.edu.au,aaaab,U6677354,true,[MATH1013;COMP1130;STAT1008],50
+Sungjae,U6677355@anu.edu.au,aaaaa,U6677355,false,[MATH1005;COMP1100]
+

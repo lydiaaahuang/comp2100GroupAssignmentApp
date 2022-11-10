@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/emily/AndroidStudioProjects/comp2100-group-assignment/TutorApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/emily/AndroidStudioProjects/comp2100-group-assignment/TutorApp/app/src/main/res/drawable/ic_activity_status_circle.xml" value="0.1" />
+        <entry key="..\:/Users/emily/AndroidStudioProjects/comp2100-group-assignment/TutorApp/app/src/main/res/drawable/ic_baseline_arrow_send.xml" value="0.1" />
+        <entry key="..\:/Users/emily/AndroidStudioProjects/comp2100-group-assignment/TutorApp/app/src/main/res/drawable/ic_baseline_chat_icon.xml" value="0.1" />
+        <entry key="..\:/Users/emily/AndroidStudioProjects/comp2100-group-assignment/TutorApp/app/src/main/res/drawable/ic_baseline_home_icon.xml" value="0.1" />
+        <entry key="..\:/Users/emily/AndroidStudioProjects/comp2100-group-assignment/TutorApp/app/src/main/res/drawable/ic_baseline_profile_icon.xml" value="0.208" />
+        <entry key="..\:/Users/emily/AndroidStudioProjects/comp2100-group-assignment/TutorApp/app/src/main/res/drawable/ic_baseline_saved_icon.xml" value="0.208" />
+        <entry key="..\:/Users/emily/AndroidStudioProjects/comp2100-group-assignment/TutorApp/app/src/main/res/drawable/ic_searchwhite.xml" value="0.208" />
+        <entry key="..\:/Users/emily/AndroidStudioProjects/comp2100-group-assignment/TutorApp/app/src/main/res/drawable/msg_incoming_bubble.xml" value="0.149" />
+        <entry key="..\:/Users/emily/AndroidStudioProjects/comp2100-group-assignment/TutorApp/app/src/main/res/drawable/msg_outgoing_bubble.xml" value="0.149" />
+        <entry key="..\:/Users/emily/AndroidStudioProjects/comp2100-group-assignment/TutorApp/app/src/main/res/drawable/selector.xml" value="0.149" />
+        <entry key="..\:/Users/emily/AndroidStudioProjects/comp2100-group-assignment/TutorApp/app/src/main/res/drawable/status_background.xml" value="0.149" />
+        <entry key="..\:/Users/emily/AndroidStudioProjects/comp2100-group-assignment/TutorApp/app/src/main/res/layout/activity_chat_messenger.xml" value="0.3223958333333333" />
+        <entry key="..\:/Users/emily/AndroidStudioProjects/comp2100-group-assignment/TutorApp/app/src/main/res/layout/activity_edit_profile.xml" value="0.2036184210526316" />
+        <entry key="..\:/Users/emily/AndroidStudioProjects/comp2100-group-assignment/TutorApp/app/src/main/res/layout/activity_load_screen.xml" value="0.2036184210526316" />
+        <entry key="..\:/Users/emily/AndroidStudioProjects/comp2100-group-assignment/TutorApp/app/src/main/res/layout/activity_login.xml" value="0.26452991452991453" />
+        <entry key="..\:/Users/emily/AndroidStudioProjects/comp2100-group-assignment/TutorApp/app/src/main/res/layout/activity_main_chat.xml" value="0.3223958333333333" />
+        <entry key="..\:/Users/emily/AndroidStudioProjects/comp2100-group-assignment/TutorApp/app/src/main/res/layout/activity_main_home.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/emily/AndroidStudioProjects/comp2100-group-assignment/TutorApp/app/src/main/res/layout/activity_main_saved.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/emily/AndroidStudioProjects/comp2100-group-assignment/TutorApp/app/src/main/res/layout/activity_other_user_profile.xml" value="0.3223958333333333" />
+        <entry key="..\:/Users/emily/AndroidStudioProjects/comp2100-group-assignment/TutorApp/app/src/main/res/layout/activity_profile.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/emily/AndroidStudioProjects/comp2100-group-assignment/TutorApp/app/src/main/res/layout/activity_search_results.xml" value="0.2036184210526316" />
+        <entry key="..\:/Users/emily/AndroidStudioProjects/comp2100-group-assignment/TutorApp/app/src/main/res/layout/activity_sign_up.xml" value="0.2036184210526316" />
+        <entry key="..\:/Users/emily/AndroidStudioProjects/comp2100-group-assignment/TutorApp/app/src/main/res/layout/bar.xml" value="0.2036184210526316" />
+        <entry key="..\:/Users/emily/AndroidStudioProjects/comp2100-group-assignment/TutorApp/app/src/main/res/layout/chat_item_left.xml" value="0.175" />
+        <entry key="..\:/Users/emily/AndroidStudioProjects/comp2100-group-assignment/TutorApp/app/src/main/res/layout/chat_item_right.xml" value="0.175" />
+        <entry key="..\:/Users/emily/AndroidStudioProjects/comp2100-group-assignment/TutorApp/app/src/main/res/layout/chat_user_info.xml" value="0.2036184210526316" />
+        <entry key="..\:/Users/emily/AndroidStudioProjects/comp2100-group-assignment/TutorApp/app/src/main/res/layout/layout_profile.xml" value="0.175" />
+        <entry key="..\:/Users/emily/AndroidStudioProjects/comp2100-group-assignment/TutorApp/app/src/main/res/layout/saved_profile.xml" value="0.15833333333333333" />
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.3575" />
+        <entry key="app/src/main/res/drawable/ic_activity_status_circle.xml" value="0.2455" />
+        <entry key="app/src/main/res/drawable/ic_baseline_arrow_send.xml" value="0.3575" />
+        <entry key="app/src/main/res/drawable/ic_baseline_chat_icon.xml" value="0.3575" />
+        <entry key="app/src/main/res/drawable/ic_baseline_home_icon.xml" value="0.3575" />
+        <entry key="app/src/main/res/drawable/ic_baseline_profile_icon.xml" value="0.3575" />
+        <entry key="app/src/main/res/drawable/ic_baseline_saved_icon.xml" value="0.3575" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.3575" />
+        <entry key="app/src/main/res/drawable/ic_searchwhite.xml" value="0.2375" />
+        <entry key="app/src/main/res/drawable/msg_incoming_bubble.xml" value="0.3575" />
+        <entry key="app/src/main/res/drawable/msg_outgoing_bubble.xml" value="0.3575" />
+        <entry key="app/src/main/res/drawable/test.xml" value="0.2375" />
+        <entry key="app/src/main/res/layout-w1240dp/activity_login.xml" value="0.1" />
+        <entry key="app/src/main/res/layout-w936dp/activity_login.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_chat.xml" value="0.4036458333333333" />
+        <entry key="app/src/main/res/layout/activity_chat_fragment.xml" value="0.2421875" />
+        <entry key="app/src/main/res/layout/activity_chat_messenger.xml" value="0.19610507246376813" />
+        <entry key="app/src/main/res/layout/activity_edit_profile.xml" value="0.3098958333333333" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.35966199355043305" />
+        <entry key="app/src/main/res/layout/activity_login_page.xml" value="0.4036458333333333" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.15473334270974853" />
+        <entry key="app/src/main/res/layout/activity_main_chat.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_main_home.xml" value="0.24513702392578124" />
+        <entry key="app/src/main/res/layout/activity_main_profile.xml" value="0.24818840579710144" />
+        <entry key="app/src/main/res/layout/activity_main_saved.xml" value="0.15572916666666667" />
+        <entry key="app/src/main/res/layout/activity_other_user_profile.xml" value="0.3098958333333333" />
+        <entry key="app/src/main/res/layout/activity_profile.xml" value="0.2421875" />
+        <entry key="app/src/main/res/layout/activity_saved_tutor_click.xml" value="0.383774953648664" />
+        <entry key="app/src/main/res/layout/activity_search.xml" value="0.24818840579710144" />
+        <entry key="app/src/main/res/layout/activity_search_results.xml" value="0.31650200442991394" />
+        <entry key="app/src/main/res/layout/activity_sign_up.xml" value="0.24818840579710144" />
+        <entry key="app/src/main/res/layout/activity_user_fragment.xml" value="0.228125" />
+        <entry key="app/src/main/res/layout/bar.xml" value="0.24818840579710144" />
+        <entry key="app/src/main/res/layout/chat_item_left.xml" value="0.4036458333333333" />
+        <entry key="app/src/main/res/layout/chat_item_right.xml" value="0.4036458333333333" />
+        <entry key="app/src/main/res/layout/chat_messenger.xml" value="0.3098958333333333" />
+        <entry key="app/src/main/res/layout/chat_profile.xml" value="0.2421875" />
+        <entry key="app/src/main/res/layout/chat_user_info.xml" value="0.3098958333333333" />
+        <entry key="app/src/main/res/layout/content_login_page.xml" value="0.4036458333333333" />
+        <entry key="app/src/main/res/layout/fragment_chat.xml" value="0.11448834853090173" />
+        <entry key="app/src/main/res/layout/fragment_dashboard.xml" value="0.3255208333333333" />
+        <entry key="app/src/main/res/layout/fragment_first.xml" value="0.4036458333333333" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_profile.xml" value="0.18" />
+        <entry key="app/src/main/res/layout/fragment_saved.xml" value="0.22585462050355803" />
+        <entry key="app/src/main/res/layout/fragment_settings.xml" value="0.3255208333333333" />
+        <entry key="app/src/main/res/layout/layout_profile.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/saved_profile.xml" value="0.2421875" />
+        <entry key="app/src/main/res/layout/saved_row.xml" value="0.36244506835937507" />
+        <entry key="app/src/main/res/layout/saved_tutor_item.xml" value="0.24818840579710144" />
+        <entry key="app/src/main/res/layout/snippet_top_profile.xml" value="0.2421875" />
+        <entry key="app/src/main/res/menu/bottom_nav_menu.xml" value="0.22777777777777777" />
+        <entry key="app/src/main/res/menu/menu.xml" value="0.3098958333333333" />
+        <entry key="app/src/main/res/menu/nav_menu.xml" value="0.3098958333333333" />
+        <entry key="app/src/main/res/menu/toolbar_menu.xml" value="0.3098958333333333" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.183" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.183" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_X" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,90 @@
+# for information & examples on how to fill this out correctly, see
+# https://cs.anu.edu.au/courses/comp1720/resources/faq/#statement-of-originality
+# this document has been modified for the purpose of the COMP2100/6442 group assignment.
+
+declaration: >-
+  I declare that everything I have submitted in this assignment is entirely our
+  own work, with the following exceptions:
+
+
+# add as many "name+comment" entries as necessary
+# (or remove it altogether if you haven't collaborated with anyone outside your group)
+collaboration:
+  - name: COMP2100 Lab 8
+    comment: In particular used basic implementation of real time database in firebase from instructions in this lab as the basis of adding things to the database. The basic data stream implementation was used as well. 
+  - name: COMP2100 Lab 4
+    comment: Basic implementation of the AVL tree was used as a guide to develop the AVL Tree in this assignment. The general structure was followed but extended by adding extra parameters to the constructors (hence modifying the nodes) with most methods being modified and multiple extra methods being added.
+  - name: COMP2100 Lab 7
+    comment: Basic implementation of the Tokenizer and Parser was used a guide to develop the tokenizer and parser used in this assignment. The general structure was followed but extended by modifying the grammar and tokenizer for the uses of this assignment. 
+
+
+# add as many "url+licence+comment" entries as necessary
+# (or remove it altogether if you haven't used any external code)
+code:
+  - comment: Used to understand and implement a recylcer view for the MainSavedActivity and Class.
+    url: https://developer.android.com/guide/topics/ui/layout/recyclerview
+    licence: Apache 2.0
+  - comment: Used to understand and implement Firebase Authentication - in particular setting up
+    url: https://firebase.google.com/docs/auth/android/start
+    licence: Apache 2.0
+  - comment: Used to understand and implement Firebase Authentication - in particular creating users when signed in etc.
+    url: https://firebase.google.com/docs/auth/android/manage-users
+    licence: Apache 2.0
+  - comment: Used to understand and implement Firebase Authentication - in particular with creating new users with email and password
+    url: https://firebase.google.com/docs/auth/android/password-auth
+    licence: Apache 2.0
+  - comment: Learnt that you can add values in firebase real time database with a hashmap rather than having to set each key and value one by one
+    url: https://firebase.google.com/docs/database/android/read-and-write
+    licence: Apache 2.0
+  - comment: Learnt about the push() function that generates a unique key which is useful for adding stuff from a list into firebase real time databse as you don't need to determine beforehand what the child's key is
+    url: https://firebase.google.com/docs/database/android/lists-of-data
+    licence: Apache 2.0
+  - comment: Used as inspiration to create the chat bubbles
+    url: https://stackoverflow.com/questions/7974847/android-drawable-speech-bubble
+    licence: CC BY-SA 4.0
+  - comment: Realised I could use getChildren to get all the child nodes of a partiular parent
+    url: https://firebase.google.com/docs/reference/android/com/google/firebase/database/DataSnapshot
+    licence: Apache 2.0
+  - comment: Helped Emily understand how to create an onclick for recycler view as it is slightly different from using it in listView which was covered in the labs
+    url: https://stackoverflow.com/questions/49969278/recyclerview-item-click-listener-the-right-way
+    licence: CC BY-SA 4.0
+
+  - comment: create a splash screen
+    url: https://www.youtube.com/watch?v=jXtof6OUtcE
+    licence: Fair use
+
+  - comment: Learn how to create a chat function, send messages
+    url: https://www.youtube.com/watch?v=f1HKTg2hyf0&list=PLzLFqCABnRQftQQETzoVMuteXzNiXmnj8&index=7
+    licence: Fair use
+
+  - comment: Learn how to create a chat function, recieve messages
+    url: https://www.youtube.com/watch?v=1mJv4XxWlu8&list=PLzLFqCABnRQftQQETzoVMuteXzNiXmnj8&index=8
+    licence: Fair use
+
+  - comment:
+    url:
+    licence:
+
+
+
+
+
+# add as many "url+licence+comment" entries as necessary
+# (or remove it altogether if you haven't used any external assets)
+assets:
+  # NOTE: "Bliss" is just here as an example, you should remove it
+  - comment: "_Bliss_ by Charles O'Rear"
+    url: https://en.wikipedia.org/wiki/Bliss_(image)
+    licence: fair use
+
+# for each member, write your name and uid here
+# remove any empty "name+uid" entries
+members:
+  - name: Rohan Khatwani
+    uid: u7298781
+  - name: Lydia Huang
+    uid: u7298641
+  - name: Sung Lee
+    uid: u6677355
+  - name: Emily Nguyen
+    uid: u7122524
